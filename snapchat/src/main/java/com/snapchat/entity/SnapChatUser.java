@@ -1,5 +1,10 @@
 package com.snapchat.entity;
 
+
+//what is class?
+//class is a collection of variable and methods(functions)
+//what is object?
+// SnapChatUser su=new SnapChatUser();
 public class SnapChatUser {
 	private String name;
 	private String password;
